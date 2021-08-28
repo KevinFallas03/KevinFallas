@@ -1,6 +1,6 @@
 [![Kevin's GitHub Banner](./assets/README-HEADER.png)](https:kevinfallas.dev)
 
-[![Visits Badge](https://badges.pufler.dev/visits/KevinFallas03/KevinFallas)](https:kevinfallas.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/KevinFallas03/KevinFallas03)](https:kevinfallas.dev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](www.linkedin.com/in/kevinfallas)
 
 Hi! 👋
@@ -23,20 +23,22 @@ I’m Kevin, a software engineer/computer science student at Tecnológico de Cos
 
 <br>
 
-<a href="https://github.com/KevinFallas03/DynamicFormBuilder-BD2-2S-2020">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/KevinFallas03/FacturacionMunicipal_BD">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KevinFallas03&repo=DB2-Final-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
-
-<a href="https://github.com/KevinFallas03/FacturacionMunicipal_BD">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/KevinFallas03/DynamicFormBuilder-BD2-2S-2020">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KevinFallas03&repo=DynamicFormBuilder-BD2-2S-2020&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
 <a href="https://github.com/KevinFallas03/DB2-Final-Project">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KevinFallas03&repo=FacturacionMunicipal_BD&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/KevinFallas03/DB2-Final-Project">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KevinFallas03&repo=DAPP-Workitec&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
@@ -51,7 +53,7 @@ I’m Kevin, a software engineer/computer science student at Tecnológico de Cos
 </a>
 
 <a href="https://github.com/KevinFallas03">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=KevinFallas03&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=KevinFallas03&hide=prs,issues&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
 
 <br>
