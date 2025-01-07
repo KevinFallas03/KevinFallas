@@ -4,7 +4,7 @@
 
 Hi! 👋
 
-I’m Kevin, a computer science student at Tecnológico de Costa Rica.
+I’m Kevin, a software engineer, interested in open source, full-stack development and mobile development.
 
 <!-- Want to see my projects? [Check out my portfolio.](https:kevinfallas.dev) -->
 
@@ -61,7 +61,7 @@ I’m Kevin, a computer science student at Tecnológico de Costa Rica.
 
 ## 💼 Skills
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
+![Python](Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 ![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=4AB197)
 ![MongoDB](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![Angular](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
